@@ -2,6 +2,12 @@
   "name": "DragAndDrop",
   "version": "1.0.0",
   "description": "Drag & Drop",
-  "main": "index.js",
-  "license": "MIT"
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "start": "lite-server"
+  }
 }
