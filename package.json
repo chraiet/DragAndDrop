@@ -1,0 +1,7 @@
+{
+  "name": "DragAndDrop",
+  "version": "1.0.0",
+  "description": "Drag & Drop",
+  "main": "index.js",
+  "license": "MIT"
+}
